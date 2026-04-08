@@ -1,4 +1,4 @@
-<img width="1188" height="319" alt="image" src="https://github.com/user-attachments/assets/539a8dfe-2256-44d8-8805-859bb3089059" /># Hi 👋, I'm Rey Vincent
+# Hi 👋, I'm Rey Vincent
 
 💻 Software Engineer  
 📍 Cebu, Philippines  
