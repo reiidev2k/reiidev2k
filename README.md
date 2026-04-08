@@ -26,7 +26,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reiidev2k&show_icons=true)
 
-![Top Langs](https://vercel.app)
+![WakaTime Stats](https://vercel.app)
 
 ---
 
