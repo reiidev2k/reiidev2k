@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Rey Vincent
 
-<!--
-**reiidev2k/reiidev2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer  
+📍 Cebu, Philippines  
+🚀 Passionate about building clean, scalable systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🔭 Currently working as a Software Engineer  
+- 🌱 Learning more about cloud, backend architecture, and system design  
+- 💬 Ask me about **Java, Spring Boot, JavaScript**  
+- 📫 Reach me at: **your.email@example.com**
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, SQL
+- **Frameworks:** Spring Boot, Node.js
+- **Tools:** Git, Docker, Azure
+- **Databases:** MySQL, PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourportfolio.com
+
+---
+
+⭐️ *Feel free to check out my repositories and projects!*
