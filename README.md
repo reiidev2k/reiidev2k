@@ -23,13 +23,3 @@
 <p align="center">
   <img src="https://wakatime.com/share/@ReiiDev/5ba620a1-fc6e-469c-97e1-d3ef6d7aad3f.svg" width="700"/>
 </p>
-``
----
-
-## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
-
----
-
-⭐️ *Feel free to check out my repositories and projects!*
